@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "configdelete",
+        "uuid": 1680640,
+        "checksum": "x5ozl"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
